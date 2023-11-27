@@ -1,0 +1,13 @@
+{
+  "name": "qwik-utils",
+  "version": "0.1.0",
+  "description": "QwikJS misc utilities",
+  "main": "index.js",
+  "keywords": ["qwik", "utilities"],
+  "author": "Eduard Vercaemer <eduardvercaemer@gmail.com> (https://edzz.de/)",
+  "repository": "github:eduardvercaemer/qwik-utils",
+  "license": "ISC",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
